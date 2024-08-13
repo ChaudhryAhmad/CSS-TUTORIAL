@@ -1,0 +1,20 @@
+/* 
+Typography is the way that text is arranged and 
+presented
+ */
+
+body{
+    padding: 10%;
+    font-size: 2rem;
+    font-family: "Roboto", sans-serif;
+}
+
+/* input,button{
+    font: inherit;
+} */
+h1{
+    color: #3c3c3c;
+}
+p{
+    text-align: justify;
+}

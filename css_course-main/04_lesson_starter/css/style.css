@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    border: 2px dashed red;
+    width: 50%;
+    font-size: 3rem;
+    padding: 0.5em;
+/* If we set font-size to 3rem and padding to 1em it will become 3rem */
+}
+main{
+    font-size: 2rem;
+}
+body{
+    width: 100%;
+    background: #fff;
+    min-height: 100vh;
+}
+p{
+    font-size: 2rem;
+/* If we have set main to 2rem then setting in p will not increase it. */
+ /* width: 40ch; */
+/* This will implement 40 characters, it will help us define columns when we will use it */
+}
+
+

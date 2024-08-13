@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+/*Begin Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* body {
+  font-family: "Nunito", sans-serif;
+  min-height: 100vh;
+}
+
+/* .example{
+  margin-top: 1rem;
+  padding-left: 20px;
+  border: 1px solid red;
+  width: 25%;
+  height: auto;
+} */
+
+.container{
+  background-color: blue;
+  background-image: url(../img/map-2176x1451.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.example{
+  background-image: linear-gradient(rgb(58, 58, 189),gray);
+  height: 100vh;
+}
+/* img{
+  display: block;
+} */
+/* End Reset */
+
+/* Utility Classes */
+/* .nowrap{
+  white-space: nowrap;
+}
+
+.offscreen{
+  position: absolute;
+  left: -10000px;
+} */
+/* End Utility Classes */
+/* .hero{
+  border-bottom: 2px solid black;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 30px;
+
+} */
+
+/* .profile-pic-figure{
+  width: 35%;
+  padding: 50px; */
+  /* animation: rotate 1ms ease-in 1s infinite; */
+/* } */ 
+
+/* h1{
+  font-size: 300px;
+  color: aqua;
+  text-shadow: 2px 2px 2px #000;
+  /* background-color: hsla(0, 0%, 0%, 0.43);
+  padding: 0.25rem;
+  border-radius: 20%; */
+/*} */
+
+/* .profile-pic-figure img{ 
+  width: 50%;
+  height: auto;
+  min-width: 100px;
+  border: 5px double gray;
+  border-radius: 50%;
+
+} */
+
+/* @keyframes rotate{
+  0%{
+    rotate: 0deg;
+  }
+  50%{
+    rotate:180deg;
+  }
+  100%{
+    rotate:360deg;
+  }
+} */
+
